@@ -3,7 +3,7 @@ a = [
     [200, "Araminta", 35],
     [300, "Pompilio", 50]
 ]
-
+# comentario NOTA 5.0 - 21/05/2025
 class ProductoCRUD:
     def __init__(m):
         m.productos = a
